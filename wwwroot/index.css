@@ -1,0 +1,10 @@
+body {  
+  font-family: monospace;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+#mainImg {
+  width: 320px;
+  height: 320px;
+}
