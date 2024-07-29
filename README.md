@@ -6,5 +6,5 @@ https://qiita.com/shisojuice/items/370769ecdfb48313ed24
 
 Demoサイト
 
-https://rust-clock.pages.dev
+https://shisojuice.github.io/Rust_Clock/
 
